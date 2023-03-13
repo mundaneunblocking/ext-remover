@@ -175,7 +175,7 @@ To re-enable just go to the chrome web listing for the extension and click on th
 
 <details>
 <summary><b>Point Blank</b> (Run code on system pages)</summary>
-Point Blank is an exploit that allows you to run bookmarklets on privilaged pages, sutch as the chrome extentions page.  
+Point Blank is an exploit that allows you to run bookmarklets on privilaged pages, such as the chrome extentions page.  
 This exploit was also found by Bypassi, you can read more about how he discovered this exploit <a href="https://blog.bypassi.com/_/point-blank/"></a>
 You can either use the prompt or the gui the prompt is below
 1. Bookmark this code:
