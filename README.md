@@ -69,7 +69,7 @@ Might be admin-blocked. Either be smart enough to figure out another way, or che
 
 **I disabled the extension, why is some stuff still blocked?**
 
-I have bad news for you... not all filters are Chrome Extensions. And again, make sure the extension pages (like bookmark A) are frozen before you assume that your skiddy self successfully did the exploit. 
+I have bad news for you... not all filters are Chrome Extensions. And again, make sure the extension pages (like bookmark A) are frozen before you assume that your skiddy diddly kiddly niddly fiddly middly kiddly self successfully did the exploit. 
 
 [https://ltmeat.bypassi.com/alt/1.txt](Baby method for slow people)
 
