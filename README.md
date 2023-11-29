@@ -40,6 +40,7 @@ Thank you to all of the contributors! Yall really are pretty epic :D
   * [Buypass *Bypass extensions*](#buypass--bypass-extensions-)
   * [Chaos *Hapara bypass*](#chaos--hapara-bypass-)
   * [SOT Exploit](#sot-exploit)
+  * [Microsoft Labs](#microsoft-labs)
 
 <small><i><a href='http://github.com/3kh0/readme-toc/'>Table of contents generated with readme-toc</a></i></small>
 
@@ -647,3 +648,19 @@ Go to <a href="https://xlak.github.io/chaos/">this link</a> and follow instructi
 Credit to [Coding4Hours](https://github.com/Coding4Hours)
 
 [**🔼 Back to top**](#ext-remover)
+
+## Microsoft Labs
+
+This doesnt support audio and like a lot of websites don't work but its a cool proxy
+
+1. Go to [https://learn.microsoft.com/en-us/training/modules/implement-common-integration-features-finance-ops/10-exercise-1]
+2. Open the lab
+3. The password is pass@word1
+4. Screw around
+  
+(not really cos this was already a thingy but it got remooved) Credit to [mundaneunblocking](https://github.com/mundance_unblocking)
+
+[**🔼 Back to top**](#ext-remover)
+
+
+
